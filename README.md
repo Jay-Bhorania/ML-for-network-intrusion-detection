@@ -10,5 +10,3 @@ Programming language: Python
 Data Processing Framework: Apache Spark
 
 Virtual Analytics Platform: Databricks
-
-Sample Dataset Used: http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
